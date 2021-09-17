@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Curicullum vitae Amine El Yaakoubi
 
 You can use the [editor on GitHub](https://github.com/Amine-077/CV-Amine/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
